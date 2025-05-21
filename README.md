@@ -19,7 +19,7 @@ This notebook was created using data from Spotify and Beatport, which is **not i
 - Insights include genre distribution, and average danceability score per genre
 
 ## Tools&Libraries
-- **Python**: 'pandas', 'numPy', 'matplotlib', 'seaborn','Scikit-learn', 'pckle'
+- **Python**: 'pandas', 'numPy', 'matplotlib', 'seaborn','Scikit-learn', 'pickle'
 - **Database**: SQLite
 - **Environment**: Jupyter Notebook
 
