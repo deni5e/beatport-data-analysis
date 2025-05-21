@@ -10,7 +10,7 @@ This project analyzes Beatport's electronic music catalogue by integrating Spoti
 inlucing required environment
 
 ## Key Features
-- INtegration of data from Beatport (CSV) and Spotify (SQLite database) using Pythonand SQL
+- Integration of data from Beatport (CSV) and Spotify (SQLite database) using Pythonand SQL
 - Enrichment of Beatport tracks with Spotify audio features, focusing on danceability
 - Handling missing data: ~30% of tracks had no Spotify match; analysis was conducted only on matched entries
 - Exploratory data analysis and visualizations on daceability trends by genre and release year
@@ -39,5 +39,6 @@ inlucing required environment
 
 
 ## Author
+Denise Rappold, Data Science Student at Universiy of Stuttgart
 
 *Disclaimer: The observations made about Beatport and Spotify relfect the data used and do not intend to endorse or critize any platform.*
