@@ -19,7 +19,7 @@ inlucing required environment
 - Insights include genre distribution, and average danceability score per genre
 
 ## Tools&Libraries
-- **Python'': 'pandas', 'numPy', 'matplotlib', 'seaborn','Scikit-learn', 'pckle'
+- **Python**: 'pandas', 'numPy', 'matplotlib', 'seaborn','Scikit-learn', 'pckle'
 - **Database**: SQLite
 - **Environment**: Jupyter Notebook
 
