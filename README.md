@@ -7,7 +7,7 @@ This project analyzes Beatport's electronic music catalogue by integrating Spoti
 2. Open the Jupyter Notebook (.ipyn file) in your environment
 
 ## Usage
-inlucing required environment
+This notebook was created using data from Spotify and Beatport, which is **not included** in this repository to avoid potential licensing or usage restrictions. As a result, the code cells may not run unless you obtain similar data separately.
 
 ## Key Features
 - Integration of data from Beatport (CSV) and Spotify (SQLite database) using Pythonand SQL
