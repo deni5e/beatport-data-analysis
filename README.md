@@ -41,4 +41,10 @@ inlucing required environment
 ## Author
 Denise Rappold, Data Science Student at Universiy of Stuttgart
 
+## Acknowledgements
+
+All data and accompanying documentation (PDF files) were provided as part of *Data Science with Python* at *University of Stuttgart*.
+
+
+
 *Disclaimer: The observations made about Beatport and Spotify relfect the data used and do not intend to endorse or critize any platform.*
