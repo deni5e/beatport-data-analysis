@@ -1,4 +1,4 @@
-# Beatport-Datenanalysis (Danceability Score Focus)
+# Beatport Data Analysis: Danceability Score Focus
 
 This project analyzes Beatport's electronic music catalogue by integrating Spotify's **Danceability Scores** (ranging from 0.0-1.0). The goal is to uncover genre-specific trends and derive insights that may support optimization strategies for further enhancing the music collection.
 
@@ -8,7 +8,6 @@ This project analyzes Beatport's electronic music catalogue by integrating Spoti
 - Managed ~30% unmatched entries (no Spotify match); analysis was conducted only on matched entries
 - Performed:
    - Exploratory Data Analysis (EDA) with visualizations
-   - Feature engineering (scaling, standardization)
    - Basic regression modeling (R² = 0.55, RMSE = 0.05)
 - Insights: genre distribution, and average danceability score per genre
 
